@@ -1,4 +1,7 @@
 # hari-diperingati-discord
+  
+![Preview message](https://github.com/farizrifqi/hari-diperingati-discord/blob/main/preview.png?raw=true)
+
 
 Script ini menggunakan Google Apps Script untuk mengirim notifikasi ke channel Discord melalui webhook ketika suatu tanggal tertentu diakui sebagai hari libur atau acara khusus di Indonesia. Skrip ini mengambil data hari libur dari [hari-libur-api](https://github.com/notokrs/hari-libur-api) dan mengirim pesan yang diformat ke Discord.
 
